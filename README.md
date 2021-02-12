@@ -1,30 +1,30 @@
-.mdAuto - lib dataset analysis
+# {Auto - lib dataset analysis}
 
-Description
+##Description
 
-This project aims at helping an electric car sharing service company process stations' data and understand electric car usage over time and eventually solve the research problem which is;
+*{This project aims at helping an electric car sharing service company process stations' data and understand electric car usage over time and eventually solve the research problem which is;}*
 
-     Identify the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of Paris over the month of April 2018.
+     {Identify the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of Paris over the month of April 2018.}
      
-Set Up Requirement
+##Set Up Requirement
 
  Colab notebook
- Importing pandas as pd
- Importing numpy as np
- Importing seaborn as sns
+*Importing pandas as pd
+*Importing numpy as np
+* Importing seaborn as sns
  
-Technologies used;
+##Technologies used;
 
- Python language
+ *Python language
  
-Contact details
+##Contact details
 
- (https://github.com/AgnesMachau)
+ *(https://github.com/AgnesMachau)
  
-License
+##License
 
-MIT License Copyright (c) 2021 Agnes Machau
-Courtesy of Moringa school data science class
+*MIT License Copyright (c) 2021 Agnes Machau
+*Courtesy of Moringa school data science class
  
  **By Agnes Machau**
  
